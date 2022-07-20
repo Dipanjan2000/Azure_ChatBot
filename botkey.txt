@@ -1,0 +1,1 @@
+<iframe src='https://webchat.botframework.com/embed/azurebot003-bot?s=yQLbpX5Jego.LB9ErGvClLzNfyQ3KVQzwX012bY2i-BdJVYde80OUzg'  style='min-width: 200px; width: 50%; min-height: 400px; align-self: center;'></iframe>
