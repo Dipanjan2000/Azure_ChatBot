@@ -2,7 +2,7 @@
 ![Logo](https://github.com/Dipanjan2000/Dipanjan2000.github.io/blob/master/ScreenShots/LOGO.png?raw=true)
 
 # Project_Azure_ChatBot
-Hello, I'm Dipanjan Chatterjee. I'm presenting my website, which I created for the TCS Sirius Program. In this website I built an interactive chatbot that can tell the name of the capital of any country in the globe. With the assistance of Microsoft Azure services, I created this chatbot. The thorough discussion of this project is done below.
+Hello, I'm Dipanjan Chatterjee. I'm presenting my website, which I created. In this website I built an interactive chatbot that can tell the name of the capital of any country in the globe. With the assistance of Microsoft Azure services, I created this chatbot. The thorough discussion of this project is done below.
 
 ![AzureBot003_KB](https://github.com/Dipanjan2000/Dipanjan2000.github.io/blob/master/AzureBot_Video_gif.gif?raw=true)
 ## Frontend
